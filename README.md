@@ -1,7 +1,8 @@
-👋 Hi, I'm Yonatan Sasson
-👀 I'm interested in Software Development, AI, Embedded Systems, and Backend technologies.
-🌱 I'm currently in my second year of studying Computer Science (GPA 96.19).
-📫 How to reach me: Feel free to connect with me on LinkedIn - https://www.linkedin.com/in/y-sas or via email - yonisasson1110@gmail.com.
+👋 Hi, I'm Yonatan Sasson<br /> 
+👀 I'm interested in Software Development, AI, Embedded Systems, and Backend technologies.<br /> 
+🌱 I'm currently in my second year of studying Computer Science (GPA 96.19).<br /> 
+📫 How to reach me: Feel free to connect with me on LinkedIn or via mail<br />
+https://www.linkedin.com/in/y-sas | yonisasson1110@gmail.com.<br /> 
 🎸 Fun fact: I'm a self-taught guitarist with over 8 years of playing experience!
 
 <!---
