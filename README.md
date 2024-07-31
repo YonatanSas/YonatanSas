@@ -6,7 +6,7 @@
     Option to continue for 3 additional semesters for Master's degree in Software Engineering (1.5 years).
 📫 How to reach me: Feel free to connect with me on LinkedIn or via mail<br />
 https://www.linkedin.com/in/y-sas | yonisasson1110@gmail.com.<br /> 
-🎸 Fun fact: I'm a self-taught guitarist with over 8 years of experience!
+🎸 Fun fact: I'm a self-taught guitarist with over 10 years of experience.
 
 <!---
 YonatanSas/YonatanSas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
