@@ -1,5 +1,5 @@
 👋 Hi, I'm Yonatan Sasson<br /> 
-👀 I'm interested in Algorithms, Software Development, Embedded Systems, AI, and Backend technologies.<br /> 
+👀 I'm interested in Algorithms, Software Development, Data, ML, and Backend technologies.<br /> 
 🌱 I'm Computer Science stduent - GPA 96.74.<br /> 
 📫 How to reach me: Feel free to connect with me on LinkedIn or via mail<br />
 https://www.linkedin.com/in/y-sas | yonisasson1110@gmail.com.<br /> 
