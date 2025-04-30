@@ -1,6 +1,6 @@
 👋 Hi, I'm Yonatan Sasson<br /> 
-👀 I'm interested in Algorithms, Software Development, Data, ML, and Backend technologies.<br /> 
-🌱 I'm Computer Science stduent - GPA 96.74.<br /> 
+👀 I'm interested in Data ML, Algorithms, Software Development.<br /> 
+🌱 I'm Computer Science stduent - GPA 97.32.<br /> 
 📫 How to reach me: Feel free to connect with me on LinkedIn or via mail<br />
 https://www.linkedin.com/in/y-sas | yonisasson1110@gmail.com.<br /> 
 🎸 Fun fact: I'm a self-taught guitarist with over 10 years of experience.
